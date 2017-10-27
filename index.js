@@ -1,6 +1,6 @@
 const app = "I don't do much.";
 
-const token = 'YOUR_TOKEN_HERE'
+const token = 'like you said not making it public'
 fetch('https://api.github.com/user/repos', {
   headers: {
     Authorization: `token ${token}`
